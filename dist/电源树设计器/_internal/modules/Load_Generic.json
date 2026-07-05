@@ -1,0 +1,17 @@
+{
+  "name": "Load_Generic",
+  "type": "load",
+  "description": "通用负载",
+  "input_voltage_min": 0.0,
+  "input_voltage_max": 100.0,
+  "output_voltage": 0.0,
+  "output_voltage_adj": false,
+  "output_voltage_min": 0.0,
+  "output_voltage_max": 0.0,
+  "max_output_current": 0.0,
+  "efficiency": 1.0,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 0.0,
+  "category": "负载",
+  "tags": ["load"]
+}

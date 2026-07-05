@@ -1,0 +1,17 @@
+{
+  "name": "LDO_5V_to_1V8_500mA",
+  "type": "ldo",
+  "description": "5V 转 1.8V LDO 线性稳压器，最大 500mA",
+  "input_voltage_min": 2.5,
+  "input_voltage_max": 5.5,
+  "output_voltage": 1.8,
+  "output_voltage_adj": false,
+  "output_voltage_min": 1.8,
+  "output_voltage_max": 1.8,
+  "max_output_current": 0.5,
+  "efficiency": 0.36,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 2.0,
+  "category": "LDO 线性稳压器",
+  "tags": ["ldo", "5v", "1.8v", "500ma"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "12V_IN",
+  "type": "input_source",
+  "description": "",
+  "input_voltage_min": 0.0,
+  "input_voltage_max": 48.0,
+  "output_voltage": 7.0,
+  "output_voltage_adj": false,
+  "output_voltage_min": 0.0,
+  "output_voltage_max": 0.0,
+  "max_output_current": 2.0,
+  "efficiency": 0.9,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 0.0,
+  "category": "输入电源",
+  "tags": [],
+  "id": ""
+}

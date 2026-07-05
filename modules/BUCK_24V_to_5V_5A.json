@@ -1,0 +1,23 @@
+{
+  "name": "BUCK_24V_to_5V_5A",
+  "type": "buck",
+  "description": "24V 转 5V 降压模块，最大 5A 输出",
+  "input_voltage_min": 8.0,
+  "input_voltage_max": 40.0,
+  "output_voltage": 5.0,
+  "output_voltage_adj": true,
+  "output_voltage_min": 1.0,
+  "output_voltage_max": 20.0,
+  "max_output_current": 5.0,
+  "efficiency": 0.92,
+  "efficiency_curve": [
+    [0.1, 0.84],
+    [0.3, 0.90],
+    [0.5, 0.92],
+    [0.7, 0.93],
+    [1.0, 0.91]
+  ],
+  "quiescent_current_ma": 5.0,
+  "category": "Buck 降压转换器",
+  "tags": ["buck", "24v", "5v", "5a"]
+}

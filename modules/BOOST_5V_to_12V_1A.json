@@ -1,0 +1,21 @@
+{
+  "name": "BOOST_5V_to_12V_1A",
+  "type": "boost",
+  "description": "5V 转 12V 升压模块，最大 1A 输出",
+  "input_voltage_min": 3.0,
+  "input_voltage_max": 5.5,
+  "output_voltage": 12.0,
+  "output_voltage_adj": true,
+  "output_voltage_min": 9.0,
+  "output_voltage_max": 24.0,
+  "max_output_current": 1.0,
+  "efficiency": 0.85,
+  "efficiency_curve": [
+    [0.1, 0.78],
+    [0.5, 0.85],
+    [1.0, 0.83]
+  ],
+  "quiescent_current_ma": 1.0,
+  "category": "Boost 升压转换器",
+  "tags": ["boost", "5v", "12v", "1a"]
+}

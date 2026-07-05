@@ -1,0 +1,18 @@
+{
+  "name": "DC_12V_Input",
+  "type": "input_source",
+  "description": "12V 直流输入电源",
+  "input_voltage_min": 12.0,
+  "input_voltage_max": 12.0,
+  "output_voltage": 12.0,
+  "output_voltage_adj": false,
+  "output_voltage_min": 12.0,
+  "output_voltage_max": 12.0,
+  "max_output_current": 10.0,
+  "efficiency": 1.0,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 0.0,
+  "category": "输入电源",
+  "tags": [],
+  "id": "9792abea"
+}

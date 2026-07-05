@@ -1,0 +1,17 @@
+{
+  "name": "DC_24V_Input",
+  "type": "input_source",
+  "description": "24V 直流输入电源",
+  "input_voltage_min": 24.0,
+  "input_voltage_max": 24.0,
+  "output_voltage": 24.0,
+  "output_voltage_adj": false,
+  "output_voltage_min": 24.0,
+  "output_voltage_max": 24.0,
+  "max_output_current": 5.0,
+  "efficiency": 1.0,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 0.0,
+  "category": "输入电源",
+  "tags": ["24v", "dc", "input"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Load_MCU",
+  "type": "load",
+  "description": "MCU 负载 (典型 3.3V, 100mA)",
+  "input_voltage_min": 0.0,
+  "input_voltage_max": 5.0,
+  "output_voltage": 3.3,
+  "output_voltage_adj": false,
+  "output_voltage_min": 0.0,
+  "output_voltage_max": 0.0,
+  "max_output_current": 0.1,
+  "efficiency": 1.0,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 0.0,
+  "category": "负载",
+  "tags": ["load", "mcu", "3.3v"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "LDO_5V_to_3V3_1A",
+  "type": "ldo",
+  "description": "5V 转 3.3V LDO 线性稳压器，最大 1A",
+  "input_voltage_min": 3.8,
+  "input_voltage_max": 6.0,
+  "output_voltage": 3.3,
+  "output_voltage_adj": false,
+  "output_voltage_min": 3.3,
+  "output_voltage_max": 3.3,
+  "max_output_current": 1.0,
+  "efficiency": 0.66,
+  "efficiency_curve": [],
+  "quiescent_current_ma": 5.0,
+  "category": "LDO 线性稳压器",
+  "tags": ["ldo", "5v", "3.3v", "1a"]
+}
